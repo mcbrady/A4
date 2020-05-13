@@ -3,5 +3,5 @@
 This is a comment from Shams
 This is a comment from Sydykaly uulu Zholboldu
 This is a comment from Beksultan
-This is a comment from Altynai
+This is a comment from Altynai(2)
 ## This is a comment from Dinmukhamet Igissinov aka Din
