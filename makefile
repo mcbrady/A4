@@ -1,5 +1,9 @@
 # this is a makefile - COMMENTS GO HERE
-
+# this is comment from Temirbek
+# this is comment from Filipp
+# this is comment from Beksultan
+# this is comment from Azim
+# this is comment from Iskender Soltonoev
 
 F1= -L/usr/local/cuda/lib64
 F2= -I/usr/local/cuda-10.1/targets/x86_64-linux/include -lcuda -lcudart
